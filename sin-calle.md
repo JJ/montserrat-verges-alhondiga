@@ -81,7 +81,17 @@ hizo el 10 de abril de 1879 a la misma Academia, encargada en aquella
 época de autorizar las mismas, sino que también fue nombrado
 arquitecto municipal de Granada, arquitecto de las diócesis de Granada
 y ya puestos de la de Guadiz Baza. En esta última, al parecer, le
-vieron el pelo una sola vez y dimitió un poco más adelante. También,
+vieron el pelo una sola vez y dimitió un poco más adelante. Tampoco le
+vieron el pelo salvo en un cuadro en la Academia de Roma. [Ese cuadro](http://www.elindependientedegranada.es/ciudadania/catalanes-que-hicieron-granada),
+pintado por él mismo y su única obra pictórica nos da una idea de su
+aspecto: un poblado bigote acorde con la época, entradas ya patentes,
+pero una buen amata de pelo; un aspecto serio y pensativo y quizás un
+poco triste. Sin duda estaría pensando en esos momentos todas las
+responsabilidades que le habían caído encima y si se arrepentiría de
+cambiar Roma por Granada.
+
+
+Porque, además,
 por si le quedaba un rato libre a las siete de la tarde de los
 domingos, fue arquitecto inspector de Hacienda. Es posible que esto
 fuera lo que le pagara el sueldo, porque también consta que un
