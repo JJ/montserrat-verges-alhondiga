@@ -71,11 +71,17 @@ Sea como fuere, al parecer el joven Juan llamó la atención de Francisco
 Jareño que no sólo lo admitió como auxiliar en las obras de la
 Biblioteca Nacional, sino que también, posiblemente, le animaría a que
 solicitara la beca de arquitectura de la Academia Española en Roma
-[@alcalde2004arquitectos]. 
+[@alcalde2004arquitectos]. En el ejercicio teórico que tuvo que
+realizar para acceder a la academia tuvo que exponer sobre el sistema
+de construcción de la arquitectura romana. Fue el que le tocó en
+suerte, pero el hecho de que lo hiciera con tal habilidad que le
+proporcionó la beca nos da una pista de cuales pueden ser sus fuentes
+de inspiración. 
 
-Sin embargo, en 1877 y a su llegada a Granada, el trabajo se le
-acumulaba al joven Juan. No sólo llegó a Granada para arreglar el
-edificio de la universidad y de camino traer "pararrayos, teléfonos y
+Posiblemente fuera un poco después de llevar a cabo el examen, en
+1877, cuando tuvo que partir para Granada, donde el trabajo se le
+acumulaba al joven Juan. No sólo fue llamado a Granada para arreglar el
+edificio que iba a albergar a la universidad y de camino traer "pararrayos, teléfonos y
 timbres eléctricos" a la misma, según una solicitud de informe que se
 hizo el 10 de abril de 1879 a la misma Academia, encargada en aquella
 época de autorizar las mismas, sino que también fue nombrado
