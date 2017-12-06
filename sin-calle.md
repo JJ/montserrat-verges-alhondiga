@@ -109,10 +109,20 @@ piedra, piedras que son, precisamente, competencia de los arquitectos
 municipales. Decidir qué se hace con ellas, tirarlas y cambiarlas de
 sitio. Y esa, precisamente, era una época donde, en Granada, había
 un furor por cambiar piedras de sitio. En ["Granada la bella", Ángel
-Ganivet dice](https://es.wikisource.org/wiki/Granada_la_bella:_04)
+Ganivet aborrece estos cambios](https://es.wikisource.org/wiki/Granada_la_bella:_04)
 (cita tomada de [@lopez2006intromisiones])
 
 >A Granada llegó la epidemia del ensanche, y como no había razón para que nos ensancháramos, porque teníamos nuestros ensanches naturales en el barrio de San Lázaro, Albaicín y Camino de Huétor, y más bien nos sobraba población, concebimos la idea famosa de ensancharnos por el centro y el proyecto diabólico de destruir la ciudad, para que el núcleo ideal de ella tuviera que refugiarse en Albaicín. Y con el pretexto de que al Darro se le habían «hinchado alguna vez las narices», acordamos poner sobre él una gran vía. Y la pusimos.
 
+En una muestra más de la *mala follá* granaína, Ángel Ganivet tiene
+una calle creada por tal ensanche, tras derribar el barrio de la
+Manigua que ocupaba esa zona del centro de Granada. Derribo que no fue
+responsabilidad de nuestro Juan,
+sino
+[Gallego Burín, en los años 40](http://granadablogs.com/terecuerdo/2015/06/16/comienza-el-derribo-de-la-manigua/). Sí
+fue responsabilidad suya el derribo
+del
+[Palacio de Cetti Meriem](http://legadonazari.blogspot.com.es/2016/02/casa-de-los-infantes-o-palacio-de-cetti.html) y
+del Arco de las Orejas, [este en el año 1884](http://www.ra-bellasartesgranada.es/?cat=17).  
 
 
