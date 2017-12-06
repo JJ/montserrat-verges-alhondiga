@@ -1,3 +1,13 @@
+---
+title: "Calles y personas, una placa para Juan Monserrat y Verges"
+author: "JJ Merelo"
+date: "6 de diciembre de 2017"
+output:
+  word_document: default
+  pdf_document: default
+bibliography: biblio.bib
+---
+
 # Calles y personas, un homenaje a Juan Monserrat y Vergés
 
 Hay personas que no necesitan calles que lleven su nombre.
@@ -175,6 +185,14 @@ ella.
 En esas fechas, también, tiene lugar el [terremoto de
 Andalucía](https://es.wikipedia.org/wiki/Terremoto_de_Andaluc%C3%ADa_de_1884). Murieron más de mil personas, y varios pueblos, sobre todo
 en la provincia de Granada, acabaron arrasados y sin una casa en pie,
-además en pleno invierno. 
+además en pleno invierno. Tras una fase inicial en que toda España
+nos asignó el sambenito de exagerados, hubo un movimiento nacional
+para ayudar a los heridos y, sobre todo, reconstruir los
+pueblos. Quizás porque [Barcelona fue una de las ciudades que más se
+distinguió en la colecta de fondos](http://mcv.revues.org/4102?lang=fr),
+quizás porque Juan decidió ofrecer su trabajo de arquitecto de forma
+gratuita, recayó en él el diseño de las viviendas que se habrían de
+construir en Arenas del Rey, en una localización a quinientos metros
+de la anterior. 
 
 
