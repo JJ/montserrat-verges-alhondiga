@@ -87,8 +87,10 @@ hizo el 10 de abril de 1879 a la misma Academia, encargada en aquella
 época de autorizar las mismas, sino que también fue nombrado
 arquitecto municipal de Granada, arquitecto de las diócesis de Granada
 y ya puestos de la de Guadiz Baza. En esta última, al parecer, le
-vieron el pelo una sola vez y dimitió un poco más adelante. Tampoco le
-vieron el pelo salvo en un cuadro en la Academia de Roma. [Ese cuadro](http://www.elindependientedegranada.es/ciudadania/catalanes-que-hicieron-granada),
+vieron el pelo una sola vez y dimitió un poco más adelante,
+posiblemente forzado por los propios prelados. Tampoco le
+vieron el pelo salvo en un cuadro en la Academia de Roma y en un
+fragmento del arco de Tito, que envió como parte de su pensión. [El cuadro](http://www.elindependientedegranada.es/ciudadania/catalanes-que-hicieron-granada),
 pintado por él mismo y su única obra pictórica nos da una idea de su
 aspecto: un poblado bigote acorde con la época, entradas ya patentes,
 pero una buen amata de pelo; un aspecto serio y pensativo y quizás un
@@ -105,7 +107,8 @@ tribunal de lo contencioso falló a favor de nuestro Juan y en contra
 de nuestra universidad por el abono de los honorarios devengados desde
 1880 a 1886. Qué sucedió en 1879, nos lo podemos imaginar. Juan acabó
 la obra y adiós muy buenas. Pero en esas fechas ya era arquitecto
-municipal de Granada. 
+municipal de Granada. También había dimitido de arquitecto de la
+diócesis de Granada. 
 
 No hay muchas calles dedicadas a arquitectos en Granada. Sólo dos, de
 hecho. Una de ellas, conocida sobre todo por ser final de [la línea N5
@@ -129,6 +132,49 @@ sino
 fue responsabilidad suya el derribo
 del
 [Palacio de Cetti Meriem](http://legadonazari.blogspot.com.es/2016/02/casa-de-los-infantes-o-palacio-de-cetti.html) y
-del Arco de las Orejas, [este en el año 1884](http://www.ra-bellasartesgranada.es/?cat=17).  
+del Arco de las
+Orejas,
+[este en el año 1884](http://www.ra-bellasartesgranada.es/?cat=17),
+situado en la actual plaza de Bibarrambla. Tanto revuelo debió causar
+en aquella época tal demolición que le valió a nuestro un *cameo* en la novela "Los
+Cármenes de Granada", que se publicó mucho más adelante, en 1927. Esta
+novela costumbrista de Armando Palacio Valdés incluye a un personaje,
+el tío Perico, que abjura de los cambios que están acabando con el
+carácter granadino e increpa a los operarios encargados de la
+demolición hasta tal punto que tiene que intervenir "el arquitecto
+municipal", nuestro Juan, que se convierte, también, en un personaje
+de ficción. 
+
+En esa época, además, andaba en otros menesteres. En 1883 se
+constituye la logia Beni Garnata [@mesa1995blas], y Juan aparece como
+miembro fundador con el grado uno. Ni esta logia ni ninguna otra de
+las que han marcado la historia granadina tienen calle en
+Granada. Juan Monserrat usó el
+*nick* "Ictinius", que se parece bastante al  [nombre del submarino](https://es.wikipedia.org/wiki/Ict%C3%ADneo_I) que
+construyó Narcís Monturiol, un *portmanteau* que combina la idea de
+pez y la idea de nave, pero que a la vez representaba la modernidad y
+la tecnología y que de hecho fue el nombre que su inventor dio al que
+hoy llamamos submarino. Narcís Monturiol también era masón. También
+puede suceder que se refiriera
+a [Ictinus](https://en.wikipedia.org/wiki/Ictinus), un arquitecto
+griego, autor del partenón; así lo dice David Martín Lopez en
+[@lopez2007juan]. Siendo esto mucho más plausible, que nuestro Juan
+tomase el nombre de un submarino como mote masónico me parece mucho
+más poético.
+
+Juan Monserrat se inició en la masonería poco antes del comienzo de la
+actividad de la Beni Garnata, en abril de 1883. A partir de ese momento, los *cambios de salario* o ascensos
+en la jerarquía masónica tendrían lugar de forma periódica. De hecho, a finales de 1884 ya
+había ascendido a segundo vigilante de la logia, y el 1886 ya había
+llegado al grado 13. En 1889 y siempre según [@mesa1995blas], aparece
+con el grado 24, el cargo de Primer Experto y, ojo al dato, casado. En
+algún momento entre 1884 y 1889, ya que en otras actas de la logia
+figura como casado, tuvo tiempo de encontrar a una mujer y casarse con
+ella. 
+
+En esas fechas, también, tiene lugar el [terremoto de
+Andalucía](https://es.wikipedia.org/wiki/Terremoto_de_Andaluc%C3%ADa_de_1884). Murieron más de mil personas, y varios pueblos, sobre todo
+en la provincia de Granada, acabaron arrasados y sin una casa en pie,
+además en pleno invierno. 
 
 
