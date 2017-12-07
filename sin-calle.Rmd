@@ -8,8 +8,6 @@ output:
 bibliography: biblio.bib
 ---
 
-# Calles y personas, un homenaje a Juan Monserrat y Vergés
-
 Hay personas que no necesitan calles que lleven su nombre.
 
 Por ejemplo,
@@ -19,7 +17,7 @@ que no existe. Hay ingenieros de la Cierva, hay al menos un Ricardo de
 la Cierva. No existe ningún ingeniero Ricardo de la Cierva. 
 
 Este afán por dar calles a lo inexistente no es que sea algo
-extraodinario en una ciudad que le concede una a
+extraordinario en una ciudad que le concede una a
 los
 [Niños Luchando](http://granadaimedia.com/calle-ninos-luchando-granada/) o
 que
@@ -54,7 +52,7 @@ Pablo, y el rector era, [según la web de la universidad,  D. Santiago López Ar
 él sí, tiene una calle en Granada. Fue un rector anterior, Francisco
 de Paula Montells y Nadal, quien inició la reforma de tal colegio para
 convertirlo en sede de la llamada Universidad Literaria; reforma que
-concluyó Juan Montserrat y Vergés en 1879. Fue por tanto la
+concluyó Juan Monserrat y Vergés en 1879. Fue por tanto la
 universidad, como en tantos otros casos, la que trajo a Juan dos años
 antes, en 1877, a Granada [@lopez2006intromisiones].
 
@@ -69,10 +67,10 @@ Porque fue un poco más tarde, en 1877, cuando tuvo que partir para
 Granada para encargarse de las obras del
 edificio que iba a albergar a la universidad. También fue nombrado
 arquitecto municipal de Granada y arquitecto de las diócesis de Granada
-y ya puestos de la de Guadiz Baza. El trabajo se le acumulaba, sobre
+y ya puestos de la de Guadix Baza. El trabajo se le acumulaba, sobre
 todo el trabajo no remunerado, y fue poco a poco dimitiendo de estas
 dos sinecuras, a la vez que renunció a una beca en la Academia de Roma
-que le habían concedido en 1878. Tuvo tiempo, sin embargo, a enbiar un
+que le habían concedido en 1878. Tuvo tiempo, sin embargo, a enviar un
 [autorretrato](http://www.elindependientedegranada.es/ciudadania/catalanes-que-hicieron-granada),
 su única obra pictórica, que nos da una idea de su
 aspecto: un poblado bigote acorde con la época, entradas ya patentes,
@@ -90,18 +88,8 @@ es la del arquitecto Modesto Cendoya, que, curiosamente, fue el
 siguiente arquitecto municipal. Y esta ausencia es más flagrante,
 puesto que Juan Monserrat, literalmente, creó calles y plazas,
 encargándose de la demolición de ciertos edificios para crear la parte
-sur de la Gran Vía, la Plaza de la Trinidad y la de Bibarrambla; 
- Derribo que no fue
-responsabilidad de nuestro Juan,
-sino
-[Gallego Burín, en los años 40](http://granadablogs.com/terecuerdo/2015/06/16/comienza-el-derribo-de-la-manigua/). Sí
-fue responsabilidad suya el derribo
-del
-[Palacio de Cetti Meriem](http://legadonazari.blogspot.com.es/2016/02/casa-de-los-infantes-o-palacio-de-cetti.html) y
-del Arco de las
-Orejas,
-[este en el año 1884],
-situado en la actual plaza de Bibarrambla. Tanto revuelo debió causar
+sur de la Gran Vía, la Plaza de la Trinidad y la de Bibarrambla, donde
+dio buena cuenta del Arco de las Orejas. Tanto revuelo debió causar
 en aquella época tal demolición que le valió a nuestro un *cameo* en la novela "Los
 Cármenes de Granada", que se publicó mucho más adelante, en 1927. Esta
 novela costumbrista de Armando Palacio Valdés incluye a un personaje,
@@ -164,4 +152,5 @@ está escrito, para quien sabe leerlo, en toda la Gran Vía y en muchos
 otros lugares en Granada. 
 
 ## Bibliografía
+
 
