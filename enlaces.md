@@ -176,3 +176,8 @@
 *
   [Los últimos años de García Moreno](http://fotografiapolilla.blogspot.com.es/2015/09/los-ultimos-anos-de-garcia-moreno.html),
   amigo de Maura y de apellido... García. 
+
+*
+  [Noticia de la muerte en el Defensor de Granada](http://www.bibliotecavirtualdeandalucia.es/catalogo/trabajos/trabajo.cmd?idTrabajo=descarga_39560-1512763451413&destino=..%2Fcatalogo_imagenes%2Fdescargar_imprimir_form.cmd%3Fdestino%3D..%252Fcatalogo_imagenes%252Fgrupo.cmd%253Fpath%253D39560%26numPags%3D4%26path%3D39560%26presentacion%3Dminiaturas),
+  5 de agosto de 1909, diciendo que recibieron la noticia "anoche" y
+  que era concejal. 
