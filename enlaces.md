@@ -168,3 +168,11 @@
   [Sociedad eléctrica de la Vega](http://www.revistadepatrimonio.es/revistas/numero6/estudiosgenerales/estudios/articulo7.php)
   
   
+*
+  [Maura, un habitual en el balneario de Corconte](http://cantabrianegocios.es/una-parada-en-el-tiempo/),
+  que debe ser el balneario donde efectivamente murió JMV, ya que no
+  hay un "Balneario de Reinosa". 
+
+*
+  [Los últimos años de García Moreno](http://fotografiapolilla.blogspot.com.es/2015/09/los-ultimos-anos-de-garcia-moreno.html),
+  amigo de Maura y de apellido... García. 
